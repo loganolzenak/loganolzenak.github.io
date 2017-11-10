@@ -1,6 +1,6 @@
  h2 {
-  color: darkcyan;
+  color: darkcyan; font-family: arial; 24px;
 }
- .title {
-   color: darkcyan;
+ p {
+  font-family: arial;
 }
